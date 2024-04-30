@@ -1,0 +1,4 @@
+requests
+urllib3==2.1.0
+beautifulsoup4==4.12.2
+google==3.0.0
